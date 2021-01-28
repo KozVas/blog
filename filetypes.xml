@@ -5,6 +5,7 @@
       <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
 </application>
